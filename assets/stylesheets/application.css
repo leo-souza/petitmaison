@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Heather';    
-  src: url('/assets/fonts/heather_.eot');
-  src: url('/assets/fonts/heather_.eot?iefix') format('eot'),
-  url('/assets/fonts/heather_.woff') format('woff'),
-  url('/assets/fonts/heather_.ttf') format('truetype'),
-  url('/assets/fonts/heather_.svg#webfont3AwWkQXK') format('svg');
+  src: url('../fonts/heather_.eot');
+  src: url('../fonts/heather_.eot?iefix') format('eot'),
+  url('../fonts/heather_.woff') format('woff'),
+  url('../fonts/heather_.ttf') format('truetype'),
+  url('../fonts/heather_.svg#webfont3AwWkQXK') format('svg');
   font-weight: normal;
   font-style: normal;
 }
